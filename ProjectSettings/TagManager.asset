@@ -5,15 +5,16 @@ TagManager:
   serializedVersion: 3
   tags:
   - Asteroid
+  - Boundary
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Asteroid
   - Water
   - UI
-  - 
-  - 
+  - Boundary
+  - Player
   - 
   - 
   - 
